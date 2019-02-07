@@ -1,0 +1,2 @@
+gcc srcs/*.c ./main.c libft/libft.a ./tests_o.c ./tests_d.c ./tests_x.c ./tests_p.c  ./tests_ls.c ./tests_s.c ./tests_c.c ./tests_lc.c ./tests_percent.c
+./a.out
